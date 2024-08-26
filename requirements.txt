@@ -1,0 +1,7 @@
+langchain
+langsmith
+streamlit
+jupyter
+google-generativeai
+langchain-google-vertexai
+langchain-openai
